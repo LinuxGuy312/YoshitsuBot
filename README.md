@@ -39,6 +39,8 @@ Yoshitsu, developed by [Eren (@WH0907)](https://t.me/WH0907), is an ever-evolvin
 - 🏞 **Wallpaper Grabber:** Download stunning wallpapers from multiple sources.
 - 🖼 **Sticker Search in Telegram:** Find stickers within Telegram effortlessly.
 
+### And the best of all? It's completely free to use and you don't even need to join any shady spam channels to use it!
+
 As Yoshitsu continues to evolve, expect even more incredible features that will enhance your Telegram experience. Embrace the limitless possibilities that Yoshitsu offers and stay tuned for exciting updates in the future!
 
 So, What are you waiting for? Unleash the power of [Yoshitsu](https://t.me/YoshitsuBot?start=github_description) and see what it's capable of!
