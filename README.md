@@ -16,17 +16,17 @@ Yoshitsu, developed by [Eren (@WH0907)](https://t.me/WH0907), is an ever-evolvin
 - 📸 **Dummy Captcha Maker:** Create realistic captchas for testing and development.
 - 📥 **Instagram Downloader:** Save your cherished Instagram content directly to Telegram.
 - 📸 **Image Generator:** Unleash your creativity and generate captivating AI-assisted images.
-- 📋 **Pastebins:** Access a plethora of pastebins, including hastebin, zeroBin, textbin, and more.
-- 🔳 **Pinterest Downloader:** Download captivating images from Pinterest with a single tap.
+- 📋 **Pastebins:** Access a plethora of pastebins, including hastebin, nekobin, spacebin, and more.
+- 🔳 **Pinterest Downloader:** Download captivating images and videos from Pinterest by just sending the link.
 - 📌 **QR Generator and Reader:** Effortlessly create and scan QR codes.
 - 📥 **Reddit Downloader:** Save images, videos, and other content from Reddit seamlessly.
 - 📸 **Telegraph:** Upload images or text to Telegraph with unparalleled convenience.
 - ☁️ **TeraBox Downloader:** Download files from TeraBox, the cloud storage powerhouse.
-- 🐦 **Twitter Downloader:** Download tweets, images, and videos from Twitter effortlessly.
+- 🐦 **Twitter Downloader:** Download videos from Twitter effortlessly.
 - 📧 **Temp Mail:** Create disposable email addresses for enhanced privacy.
 - 📚 **Urban Dictionary Finder:** Quickly find definitions from Urban Dictionary.
 - 👤 **User Info Getter:** Gather publicly available information about Telegram users.
-- ✍️ **Write on Page:** Add text or draw on web pages with ease.
+- ✍️ **Write on Page:** Add text on pages and turn them into notes with ease.
 - 🎵 **YouTube Downloader:** Download videos and audio from YouTube directly within Telegram.
 
 **Miscellaneous**
@@ -40,3 +40,5 @@ Yoshitsu, developed by [Eren (@WH0907)](https://t.me/WH0907), is an ever-evolvin
 - 🖼 **Sticker Search in Telegram:** Find stickers within Telegram effortlessly.
 
 As Yoshitsu continues to evolve, expect even more incredible features that will enhance your Telegram experience. Embrace the limitless possibilities that Yoshitsu offers and stay tuned for exciting updates in the future!
+
+So, What are you waiting for? Unleash the power of [Yoshitsu](https://t.me/YoshitsuBot?start=github_description) and see what it's capable of!
